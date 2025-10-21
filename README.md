@@ -13,3 +13,8 @@ Este projeto é um aplicativo web feito com Streamlit para explorar um conjunto 
 1. Clone o repositório  
    ```bash
    git clone https://github.com/LucasBelisse/Dashboard_carros.git
+
+   ## Aplicativo Online
+
+Você pode acessar o dashboard de carros neste link:  
+https://dashboard-carros-u7zh.onrender.com/
