@@ -1,9 +1,15 @@
 # Dashboard de Carros
 
-Este é um aplicativo web interativo criado com Streamlit para visualização de dados de anúncios de carros usados.
+Este projeto é um aplicativo web feito com Streamlit para explorar um conjunto de dados de anúncios de carros usados nos EUA.
 
 ## Funcionalidades
 
-- Visualização de um histograma da quilometragem (`odometer`) dos veículos.
-- Visualização de um gráfico de dispersão entre quilometragem (`odometer`) e preço (`price`).
-- Interface simples com caixas de seleção para alternar entre os gráficos.
+- Visualizar um histograma da quilometragem dos carros anunciados
+- Visualizar um gráfico de dispersão relacionando quilometragem e preço
+- Interatividade através de botões ou caixas de seleção para gerar gráficos dinamicamente
+
+## Como usar
+
+1. Clone o repositório  
+   ```bash
+   git clone https://github.com/LucasBelisse/Dashboard_carros.git
